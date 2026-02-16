@@ -1,2 +1,2 @@
 # University-Assignments
-My university assignments, translated from MATLAB to Python (in progress).
+Some of my university assignments, translated from MATLAB to Python (in progress).
